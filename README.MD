@@ -4,7 +4,7 @@
 
 Para montar nosso laboratório vamos precisar de um cluster **kubernetes** com no minimo 1 node control plane e 1 node worker.
 
-Caso for criar esse ambiente em alguma cloud se for possível também crie uma maquina  maquina para servir atacante facilitando assim o processo da shell reversa.
+Caso for criar esse ambiente em alguma cloud se for possível também crie uma maquina para servir atacante facilitando assim o processo da shell reversa.
 
 **Não executar esse lab em um cluster produtivo ou no cluster no amiguinho =)** 
 
